@@ -1,6 +1,9 @@
 # enpm-661-project-2-dijkstras-path-planning
 This project implements a path planning algorithm using Dijkstra's algorithm to find the shortest path from a start node to a goal node in a given map environment.
 
+## Preview output video
+[Google Drive link](https://drive.google.com/file/d/1BtfX4eBijFYdBTe7Xe-OUAsfQYfJQRLA/view?usp=sharing)
+
 ## How to Run the Code:
 
 1. Clone the repository to your local machine:
